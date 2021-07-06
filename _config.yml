@@ -20,6 +20,14 @@ authors:
     email: hack2kong@gmail.com
     web: https://happybeagle.github.io/
     description: "Enjoying learning new things. Interested in embedded, AI, algorithms, backend"
+    
+authors:
+  happyBeagle:
+    name: Joo Young Lee
+    display_name: Lala
+    email: vvvic313@gmail.com
+    web: https://https://github.com/Lala-chick
+    description: "Enjoying learning new things. Interested in AI, computer vision, health care"
   
 # Plugins
 plugins:
