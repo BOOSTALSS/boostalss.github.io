@@ -24,14 +24,20 @@ authors:
     name: Joo Young Lee
     display_name: Lala
     email: vvvic313@gmail.com
-    web: https://https://github.com/Lala-chick
+    web: https://github.com/Lala-chick
     description: "Enjoying learning new things. Interested in AI, computer vision, health care"
   nureesong:
     name: Nu Ree Song
     display_name: nuree
     email: nuri3136@naver.com
-    web: https://https://github.com/nureesong
+    web: https://github.com/nureesong
     description: "Enjoying learning new things. Interested in Computer vision, ML, Applied mathematics"
+  H_MiNi:
+    name: Hyeong Min Kim
+    display_name: H_MiNi
+    email: doritos2498@gmail.com
+    web: https://github.com/doritos0812
+    description: "Flexible-Thinking Developer. AI Engineer DREAM TREE"
     
   
 # Plugins
