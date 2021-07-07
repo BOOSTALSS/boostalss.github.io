@@ -23,7 +23,7 @@ comments: false
 </style>
 <div>
     <div>
-    <h5>부스트 알쓰 소개 글 적어야하는데 ㄹㅇ 뭐적을지 모르겠다 헬프미 아무나 좀 적어죠</h5>
+    <h5>부스트캠프에서 만난 사람들의 알고리즘 스터디, 부스트알쓰! 스터디 동안 다룬 중요한 개념 또는 문제 풀이 방법들을 이 곳에 함께 정리합니다:) 알짜배기 정보들 기대해주세요!</h5>
     </div>
     <div>
         <h3>Our Members</h3>
@@ -85,7 +85,7 @@ comments: false
                             <img src="https://avatars.githubusercontent.com/u/62870428?v=4" style="object-fit: cover;">
                         </div>
                         <a href="https://github.com/doritos0812" title="go to github">
-                            <h4 class="people_name">민달팽이</h4>
+                            <h4 class="people_name">H_MiNi</h4>
                         </a>
                     </div>
                 </td>
